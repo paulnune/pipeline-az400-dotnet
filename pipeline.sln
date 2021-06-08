@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pipeline", "pipeline.csproj", "{BFD65775-1DDB-4297-A8EB-AEF0DBC04A0A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BFD65775-1DDB-4297-A8EB-AEF0DBC04A0A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BFD65775-1DDB-4297-A8EB-AEF0DBC04A0A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BFD65775-1DDB-4297-A8EB-AEF0DBC04A0A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BFD65775-1DDB-4297-A8EB-AEF0DBC04A0A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B88E19B-09B6-4AD9-854B-D95D25D250C1}
+	EndGlobalSection
+EndGlobal
